@@ -1,0 +1,1 @@
+{"private":true,"dependencies":{"types-registry":"^0.1.697"},"devDependencies":{"@types/body-parser":"^1.19.5","@types/express":"^5.0.0","@types/mercadopago":"^1.5.11","@types/merge-descriptors":"^1.0.3","@types/ms":"^0.7.34","@types/node":"^22.10.1","@types/node-fetch":"^2.6.12","@types/serve-static":"^1.15.7","@types/whatwg-url":"^13.0.0","@types/ws":"^8.5.13"}}
